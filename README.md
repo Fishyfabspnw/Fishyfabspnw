@@ -1,17 +1,6 @@
 # FishyFabsPNW
 
-I'm a hands-on builder focused on mechanical design, 3D printing, fabrication, and practical automation.
-
-My projects combine CAD modeling, functional 3D printing, electronics integration, Klipper-based printer control, and detailed documentation. I build tools and systems that solve real problems in the shop, on the jobsite, and inside custom 3D printer platforms.
-
-## What I Work On
-
-- Custom 3D printer builds and high-temperature printing systems
-- Klipper firmware configuration, macros, and motion-system tuning
-- CAD-designed jigs, fixtures, shop tools, and mechanical parts
-- PID-controlled thermal systems and chamber heating
-- Functional printed parts for construction, fabrication, and printer upgrades
-- Documentation-first hardware projects with build logs and real testing
+Mechanical design, 3D printing, fabrication, Klipper systems, and practical automation.
 
 ## Featured Projects
 
@@ -21,22 +10,10 @@ My projects combine CAD modeling, functional 3D printing, electronics integratio
 | [Noctis](https://github.com/Fishyfabspnw/Noctis) | 3D printer enclosure and thermal-management project |
 | [PTC Heater Duct](https://github.com/Fishyfabspnw/PTC-Heater-Duct) | Chamber heater ducting and airflow hardware |
 
-## Technical Skills
+## Focus Areas
 
-- Fusion 360 CAD and mechanical design
-- FDM 3D printing, prototyping, and material testing
-- Klipper firmware, Mainsail, and Moonraker
-- Klipper macros, printer configuration, and troubleshooting
-- Motion tuning, input shaper workflows, and printer calibration
-- Wiring layout, component integration, and control-system packaging
+- Custom 3D printer builds and high-temperature printing systems
+- Klipper firmware, macros, Mainsail, and Moonraker
+- Fusion 360 CAD, jigs, fixtures, and mechanical parts
 - PID temperature control and thermal-system commissioning
-- Build documentation, README writing, and photo-based project logs
-- Finish carpentry, fabrication, and field problem-solving
-
-## Current Focus
-
-I'm currently building and documenting hardware projects around high-temperature 3D printing, annealing workflows, chamber heating, printer reliability, and custom shop tools.
-
-## About My Work
-
-I focus on practical engineering: parts that fit, systems that work, and documentation that makes the build understandable later.
+- Wiring layout, hardware integration, and build documentation
