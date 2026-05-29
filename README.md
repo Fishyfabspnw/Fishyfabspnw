@@ -7,7 +7,6 @@ Mechanical design, 3D printing, fabrication, Klipper systems, and practical auto
 | Project | Summary |
 |---|---|
 | [ThermaVault PID](https://github.com/Fishyfabspnw/Therma-Vault-Breville-Annealing-Oven-PiD) | PID-controlled annealing oven conversion for engineering plastics |
-| [Noctis](https://github.com/Fishyfabspnw/Noctis) | 3D printer enclosure and thermal-management project |
 | [PTC Heater Duct](https://github.com/Fishyfabspnw/PTC-Heater-Duct) | Chamber heater ducting and airflow hardware |
 
 ## Focus Areas
