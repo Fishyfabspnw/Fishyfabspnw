@@ -20,7 +20,6 @@ My projects combine CAD modeling, functional 3D printing, electronics integratio
 | [ThermaVault PID](https://github.com/Fishyfabspnw/Therma-Vault-Breville-Annealing-Oven-PiD) | PID-controlled annealing oven conversion for engineering plastics |
 | [Noctis](https://github.com/Fishyfabspnw/Noctis) | 3D printer enclosure and thermal-management project |
 | [PTC Heater Duct](https://github.com/Fishyfabspnw/PTC-Heater-Duct) | Chamber heater ducting and airflow hardware |
-| [MERC-1 HYDRA](https://github.com/Fishyfabspnw/MERC-1-HYDRA) | Custom mechanical and printer-system development |
 
 ## Technical Skills
 
