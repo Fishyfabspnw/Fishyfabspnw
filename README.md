@@ -14,5 +14,3 @@ Mechanical design, 3D printing, fabrication, Klipper systems, and practical auto
 - Custom 3D printer builds and high-temperature printing systems
 - Klipper firmware, macros, Mainsail, and Moonraker
 - Fusion 360 CAD, jigs, fixtures, and mechanical parts
-- PID temperature control and thermal-system commissioning
-- Wiring layout, hardware integration, and build documentation
