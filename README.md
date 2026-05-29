@@ -1,4 +1,4 @@
-# Hi, I'm Uriah
+# FishyFabsPNW
 
 I'm a hands-on builder focused on mechanical design, 3D printing, fabrication, and practical automation.
 
